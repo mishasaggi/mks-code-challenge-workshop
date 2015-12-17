@@ -1,4 +1,4 @@
-# How to use this repo
+## How to use this repo
     Fork the repo 
     create a branch off of master with your github/name handle
     commit and push to your repo/branch
@@ -6,7 +6,7 @@
 
     With all solutions in one place, you can come back and look at each other's code
 
-# Toy problem solving guidelines/ tips
+## Toy problem solving guidelines/ tips
 
     1. Make note of the input and outputs required by the problem. 
 
@@ -52,7 +52,7 @@
       Example: Sum Array - solving by hand a small example is easy but problem becomes more challenging when trying to represent in code. In this case you have to answer the following questions:
 
 
-# 1 - JS basics and working with data types
+## 1 - JS basics and working with data types
     Problem Description:
 
     The word i18n is a common abbreviation of internationalization the developer community use instead of typing the whole word and trying to spell it correctly. Similarly, a11y is an abbreviation of accessibility.
@@ -66,7 +66,7 @@
 
 
 
-# 2 - nested loop logic
+## 2 - nested loop logic
     Write a function x(n) that takes in a number n and returns an nxn array with an X in the middle. The X will be represented by 1's and the rest will be 0's. 
     E.g.
 
@@ -84,7 +84,7 @@
               [1, 0, 0, 0, 0, 1]];
 
 
-# 3 - puzzles and algorithms 
+## 3 - puzzles and algorithms 
     There are 8 balls numbered from 0 to 7. Seven of them have the same weight. One is heavier. Your task is to find it's number.
 
     Your function findBall will receive single argument - scales object. The scales object contains an internally stored array of 8 elements (indexes 0-7), each having the same value except one, which is greater. It also has a public method named getWeight(left, right) which takes two arrays of indexes and returns -1, 0, or 1 based on the accumulation of the values found at the indexes passed are heavier, equal, or lighter.
@@ -113,7 +113,7 @@
     You can use it only TWICE before the scale breaks.
 
 
-# 4 - code challenge
+## 4 - code challenge
     Your task is to write a function for calculating the score of a 10 pin bowling game. The input for the function is a list of pins knocked down per roll for one player. Output is the player's total score.
 
     Rules of bowling in a nutshell:
